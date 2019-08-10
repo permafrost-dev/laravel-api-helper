@@ -20,7 +20,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.2",
-        "illuminate/http": "5.8.*",
+        "illuminate/http": "5.8.*"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "dev-master",
